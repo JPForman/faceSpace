@@ -31,5 +31,7 @@ npm install html-webpack-plugin@2.29.0 --save-dev
 webpack
 (bundles)
 
-webpack-dev-server
+webpack-dev-server or npm run start
 (starts server)
+
+npm install eslint@4.13.1 --save-dev
